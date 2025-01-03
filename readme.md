@@ -49,5 +49,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements or fixes.
 
 ## Contact
-For questions or support, please reach out via Linkedin.
+
+For any inquiries, please contact the project maintainer at [linkedin](https://www.linkedin.com/in/alfred-nagy-882445224/).
 
